@@ -1,2 +1,2 @@
-# IP-PRAC
+Machine learning
 REACT NOde js
